@@ -1,0 +1,10 @@
+{
+  "slack": {
+    "channel": "#jenkins-notifications",
+    "enabled": true
+  },
+  "email": {
+    "recipients": ["team@example.com"],
+    "enabled": false
+  }
+}
